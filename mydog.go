@@ -1,7 +1,7 @@
-package dog
+package mydog
 
 import "fmt"
 
-func message(){
+func Message(){
 	fmt.Println("my dog")
 }
